@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project is part of my **Future Interns Data Science & Analytics Internship (Task 2)**.  
 The goal was to design a **Social Media Campaign Performance Tracker** in Power BI that gives insights into impressions, clicks, conversions, spending, and campaign effectiveness.
 
@@ -13,7 +13,7 @@ I used a **professional modern theme** with consistent colors and intuitive layo
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset provided by **Future Interns** contains:
 - Ad & campaign IDs
 - Impressions, clicks, spending
@@ -21,11 +21,11 @@ The dataset provided by **Future Interns** contains:
 - Gender & age group
 - Multiple interest categories
 
-📥 **Download Dataset:** [Click Here](data.csv)
+ **Download Dataset:** [Click Here](data.csv)
 
 ---
 
-## 📊 Key Features
+##  Key Features
 - **KPI Cards:** Total Impressions, Approved Conversions, Clicks, Total Spend
 - **Demographic Analysis:** Gender & Age-wise performance
 - **Interest Analysis:** Approved conversions by interest category
@@ -35,7 +35,7 @@ The dataset provided by **Future Interns** contains:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Power BI**
 - **Google Looker Studio**
 - **Excel / Google Sheets**
@@ -43,12 +43,12 @@ The dataset provided by **Future Interns** contains:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Screenshot](screenshot1.png)
 
 ---
 
-## 📌 Learnings & Takeaways
+##  Learnings & Takeaways
 Through this task, I improved my skills in:
 - Marketing analytics & campaign optimization
 - Designing dashboards for storytelling & decision-making
@@ -59,11 +59,11 @@ This project reinforced the importance of **clear data visualization** for marke
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Yash Sharma**  
 🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-8a04b82b8)  
 🔗 [GitHub](https://github.com/hsaysh)  
 
 ---
-⭐ *If you found this project interesting, don't forget to star this repo!*
+ *If you found this project interesting, don't forget to star this repo!*
 
